@@ -1,5 +1,5 @@
 # dotfiles
 
-My dotfiles for my arch hyprland laptop.
+My dotfiles for my ROG Zephyrus G14 laptop on Arch Hyprland.
 
-*ex image*
+*put ex image(s)*
