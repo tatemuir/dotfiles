@@ -9,8 +9,6 @@
     },
   },
   "modules": [
-    "break",
-    "break",
     "break", //
     "title",
     "separator",
