@@ -1,5 +1,6 @@
 # dotfiles
 
-My dotfiles for my ROG Zephyrus G14 laptop on Arch Hyprland.
+My dotfiles for my ROG Zephyrus G14 laptop running Arch Linux Hyprland.
 
-*put ex image(s)*
+![Example1 Screenshot](./Pictures/ex1.png)
+![Example2 Screenshot](./Pictures/ex2.png)
